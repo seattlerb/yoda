@@ -11,7 +11,7 @@ Spec yoda will, and spec you shall too.
 Q: Why are there no _____?
 A: Use the force.
 
-We accept patches.
+Patches... mmmm... yes.
 
 Q: Where is the runner script?
 A: ruby
