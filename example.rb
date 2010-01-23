@@ -16,7 +16,7 @@ Bowling.yoda {
     bowling = Bowling.new
     20.times { bowling.hit(0) }
 
-    bowling.score 1.it_is?
+    bowling.score 0.it_is?
     bowling.score 42.it_is_not!
   }
 }
